@@ -1,4 +1,4 @@
-Asuming you have python installed in your computer.... ( mac os X comes with python)
+Asuming you have python installed on your computer.... ( mac os X comes with python)
 
 1. Install the requests library
 
